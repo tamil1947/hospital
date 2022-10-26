@@ -199,7 +199,11 @@ justify-content: center;
         display: grid;
         grid-template-columns: 1fr;
     }
+    .content p{
+        text-align: center;
+    }
     .content h3{
+        text-align: center;
         font-size: 2rem;
         color:var(--black);
         line-height: 1.8;
