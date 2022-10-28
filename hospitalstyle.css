@@ -338,6 +338,9 @@ padding: 15px;
 .footer{
 background-color: gray;
 }
+.footer h3{
+    color: #16a085;
+}
 .footer a{
     line-height: 3rem;
     color: white;
