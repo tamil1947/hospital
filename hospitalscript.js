@@ -7,6 +7,8 @@ menu.onclick = () =>{
 }
 
 window.onscroll = () =>{
+
+    //adad
     menu.classList.remove('fa-times');
     navbar.classList.remove('active');
 }
