@@ -9,6 +9,7 @@ menu.onclick = () =>{
 window.onscroll = () =>{
 //from ram
     //adad
+    //new main
     menu.classList.remove('fa-times');
     navbar.classList.remove('active');
 }
